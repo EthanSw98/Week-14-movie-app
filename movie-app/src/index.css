@@ -1,0 +1,29 @@
+
+#header{
+  background-image: url(https://media.istockphoto.com/id/149066514/photo/background-of-fresh-made-popcorn.jpg?s=1024x1024&w=is&k=20&c=SI2nGN5bReoMarydLhnblEyyOiS-juXwj0jsz86wPYU=);
+}
+#movie-image{
+  height:auto;
+  width:fill;
+}
+
+#title {
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align:center;
+}
+
+
+#moviecontainer{
+  width:auto;
+  text-align:center;
+  border-color:black;
+  border-width:8px;
+}
+
+#reviewform{
+  justify-content:left;
+}
+
+
+
